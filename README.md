@@ -84,7 +84,7 @@ I spent six years building and running **Madness Reefing**, an aquarium installa
 
 ### 📊 GitHub Stats
 
-<div align="center"> <img height="165" src="https://github-readme-stats-olive-zeta-24.vercel.app/api?username=scottw0173&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Scott's GitHub stats" /> <img height="165" src="https://github-readme-stats-olive-zeta-24.vercel.app/api/top-langs/?username=scottw0173&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /> </div>
+<div align="center"> <img height="165" src="https://github-readme-stats-olive-zeta-24.vercel.app/api?username=scottw0173&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="Scott's GitHub stats" /> <img height="165" src="https://github-readme-stats-olive-zeta-24.vercel.app/api/top-langs/?username=scottw0173&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /> </div>
 
 ---
 
