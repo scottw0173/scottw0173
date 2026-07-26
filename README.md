@@ -3,10 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Hi%2C+I'm+Scott+Warner+%F0%9F%91%8B;Data+Analytics+%E2%80%A2+Backend+%E2%80%A2+AI+Automation;Power+BI+dashboards+%26+LLM-powered+pipelines;Open+to+Jr+Analyst+%26+Support+Engineering+roles" alt="Typing SVG" />
 
 <a href="https://scottw0173.github.io/Static_Site_Generator/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-<!-- Replace the # below with your LinkedIn URL -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<!-- Replace the # below with your email, e.g. mailto:you@example.com -->
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/scott-warner-8972093a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:swarner5937@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=scottw0173&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
